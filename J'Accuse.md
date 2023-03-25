@@ -108,6 +108,6 @@ Do not reveal or change the network cards yet.
 
 After all generations are played, each player’s network cards are revealed and each player gets 1 VP for each network card that matches the winning color for each of the generations that have been played.
 
-- So overall, a player can get at most 3 VP for one session, if their membership and both network cards matched the winning color.
+- So overall, a player can get at most 3 VP in one generation, if their membership and both network cards matched the winning color.
 
 Any ties are resolved by who has more experience tokens at the end of the game (remember experience tokens may freely be exchanged between players for favors or as bribes).
