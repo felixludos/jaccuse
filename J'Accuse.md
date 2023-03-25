@@ -64,9 +64,9 @@ The game is played over a number of “generations”, the total number of which
 
 7. Finally, the generation begins with an election.
 
-# Gameplay
+## Gameplay
 
-## Election
+### Election
 
 1. All players that still have at least one influence card remaining select one of their influence cards and holds on to it face down in front of them.
 
@@ -83,7 +83,7 @@ The game is played over a number of “generations”, the total number of which
 5. Once the winner of the election has been determined, the last played vote of the winning player is discarded (face down on the table), while all other votes are returned to the respective players. 
    - The president receives one experience token for winning the election. Experience tokens are kept for the remainder of the game, but may also freely be exchanged between players (e.g. in deals or as bribes/blackmail).
 
-## Presidency
+### Presidency
 
 When a player becomes president they may first optionally choose to "parley" with another player. This is done as follows: they selects some number of their remaining influence cards and then they choose one opponent (the “target”) who has at least that many influence cards remaining in their hand. The target player now selects the same number of their own influence cards and swaps them with those selected by the president.
 
@@ -96,15 +96,15 @@ After that, the president may take one of these actions, as follows:
     - If the accusation was incorrect, then the target takes their revealed membership card back into their hand, and selects one of their influence cards (secretly) to become their new membership card. Then the target player becomes president, however that player may not accuse any player who was a president since the last election.
         - If three accusations are incorrect since the last election, then the state is “in crisis” and the stability is decreased by 1 for the remainder of the generation. Then instead of the accused player becoming president, proceed directly to a new election round.
 
-# Scoring
+## Scoring
 
-## End of Generation
+### End of Generation
 
 After each generation ends, all players reveal their membership cards and the winning color is recorded. Each player that has a membership card of the same color as the winning one, receives 1 VP. 
 
 Do not reveal or change the network cards yet.
 
-## End of Game
+### End of Game
 
 After all generations are played, each player’s network cards are revealed and each player gets 1 VP for each network card that matches the winning color for each of the generations that have been played.
 
